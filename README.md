@@ -11,3 +11,4 @@ Missing features:
 * Double Jump
 * Restart Game
 * Save/Open Game
+* Just realized you can't drag the window around, thats an oopsies
